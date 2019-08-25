@@ -1,0 +1,19 @@
+{
+  "name": "express-mongodb-router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NzAhmed/Express-mongodb-Router.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NzAhmed/Express-mongodb-Router/issues"
+  },
+  "homepage": "https://github.com/NzAhmed/Express-mongodb-Router#readme"
+}
